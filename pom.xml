@@ -8,6 +8,8 @@
     <modules>
 
         <module>eureka-server</module>
+        <module>producer-service</module>
+        <module>consumer-service</module>
     </modules>
     <packaging>pom</packaging>
 
