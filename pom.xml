@@ -10,6 +10,8 @@
         <module>eureka-server</module>
         <module>producer-service</module>
         <module>consumer-service</module>
+        <module>hystrix-dashboard</module>
+
     </modules>
     <packaging>pom</packaging>
 
